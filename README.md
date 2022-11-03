@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-![Image](https://rubenagdev.github.io/about/images/nodejs.svg)
+
+![Image](https://rubenagdev.github.io/about/images/nodejs.svg | width=50)
