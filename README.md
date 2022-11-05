@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
 
-<img src="https://rubenagdev.github.io/aboutme/images/nodejs.svg" width="50" alt="nodejs">
+<img src="https://rubenagdev.github.io/images/nodejs.svg" width="50" alt="nodejs">
