@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=ffd343"/>
   <img src="https://img.shields.io/badge/FastAPI-00ccb8?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/.net-9780e5?style=for-the-badge&logo=.net&logoColor=white"/>
