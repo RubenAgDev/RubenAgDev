@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   <img src="https://img.shields.io/badge/FastAPI-00ccb8?style=for-the-badge&logo=fastapi&logoColor=white"/>
